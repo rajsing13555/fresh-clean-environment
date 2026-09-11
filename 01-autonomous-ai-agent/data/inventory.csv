@@ -1,0 +1,6 @@
+sku,product_name,current_stock,reorder_threshold,reorder_qty,supplier
+SKU001,Wireless Mouse,12,20,100,Acme Electronics
+SKU002,USB-C Cable,5,15,150,CableCo
+SKU003,Laptop Stand,40,10,50,ErgoWorks
+SKU004,Mechanical Keyboard,3,10,60,KeyTech
+SKU005,Webcam HD,25,10,40,VisionSupply

@@ -1,0 +1,5 @@
+year,carbon_emissions_tons,energy_use_mwh,waste_recycled_pct,water_usage_kl,diversity_ratio_pct,safety_incidents,community_spend_inr_lakh,board_independence_pct,audit_compliance_pct,data_privacy_incidents
+2022,12000,4500,55,8000,32,4,15,45,90,2
+2023,10800,4200,62,7600,38,3,20,50,92,1
+2024,9500,3900,70,7100,44,2,28,55,95,0
+2025,8600,3600,76,6700,49,1,35,60,97,0
